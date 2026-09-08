@@ -188,7 +188,7 @@ Based on the dashboard analysis:
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Download `paytm_dashboard.pbix` from this repository.
 2. Open the file using **Microsoft Power BI Desktop**.
@@ -198,7 +198,7 @@ Based on the dashboard analysis:
 
 ---
 
-## 💡 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Cleaning
 - Data Transformation
@@ -214,13 +214,13 @@ Based on the dashboard analysis:
 
 ---
 
-## 📌 Project Purpose
+## Project Purpose
 
 This project was created as part of my **Data Analytics and Business Intelligence portfolio** to demonstrate practical skills in data analysis, interactive dashboard development, data visualization, and extracting meaningful insights from transactional data.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Simrat Kaur**
 
